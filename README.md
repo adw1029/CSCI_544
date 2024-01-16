@@ -1,2 +1,3 @@
 # CSCI_544
-collection of code from CSCI 544
+collection of code from USC CSCI 544
+
